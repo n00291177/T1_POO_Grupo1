@@ -16,6 +16,9 @@ public class T1_POO_Grupo1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("MENSAJE DE PRUEBA 1 CON GIT");
+        
         Scanner sc = new Scanner(System.in);
         GestionProducto gestion = new GestionProducto();
         int opcion;
